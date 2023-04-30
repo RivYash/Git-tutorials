@@ -12,3 +12,5 @@ introduction to git and git hub.
 10. git remote add origin https://github.com/RivYash/Git-tutorials.git
 11. git remote -v
 12. git push origin master
+13. git branch author2
+14. git checkout author2
