@@ -1,16 +1,16 @@
 introduction to git and git hub.
 
-1. git init
-2. git add {filename}
-3. git status
-4. git commit -m "names.txt file added"
-5. git restore --staged names.txt
-6. git rm -r deld.txt
-7. git log
-8. git reset 5d623075da03c7012217ab42abc8dae01b6b5361
-9. git stash 
-10. git remote add origin https://github.com/RivYash/Git-tutorials.git
-11. git remote -v
-12. git push origin master
-13. git branch author2
-14. git checkout author2
+git init
+git add {filename}
+git status
+git commit -m "names.txt file added"
+git restore --staged names.txt
+git rm -r deld.txt
+git log
+git reset 5d623075da03c7012217ab42abc8dae01b6b5361
+git stash 
+git remote add origin https://github.com/RivYash/Git-tutorials.git
+git remote -v
+git push origin master
+git branch author2
+git checkout author2
