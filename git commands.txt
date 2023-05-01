@@ -14,3 +14,4 @@ git remote -v
 git push origin master
 git branch author2
 git checkout author2
+git fetch --all --prune
